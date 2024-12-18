@@ -1,5 +1,7 @@
 # Proyecto-Pruebas-Crombie
 Proyecto de Pruebas Manuales y Automatizadas para Swagger Mascota
+
+
 Paso 1
 Tener instalado ecplipse 2018 win64 con Selenium webdriver y java
 
